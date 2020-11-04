@@ -8,7 +8,7 @@ I'm a designer graduate turned **frontend developer**. My design background help
 
 ## Looking for
 
-- An **internship/junior** position where I can collaborate with people from diverse backgrounds/expertise, broaden/improve my skills, and grow together with a team;
+- An **internship/junior** position where I can collaborate with people from diverse backgrounds/expertise, broaden/improve my skills, and grow with a group of people that cares about what they are building;
 - Cool projects to **contribute** to, and **learn** from.
 
 ## Work outside GitHub
