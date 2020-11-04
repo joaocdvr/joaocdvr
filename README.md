@@ -4,7 +4,7 @@ I'm a communication design graduate turned **frontend developer**. My design bac
 
 ## Technologies I enjoy working with
 
-- HTML, CSS , Svelte, and React.
+- HTML, CSS , JavaScript, Svelte, and React.
 
 ## Looking for
 
