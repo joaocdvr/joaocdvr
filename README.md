@@ -1,16 +1,20 @@
-### Hi there 👋
+# **Hi there, I'm João** 👋
 
-<!--
-**joaocdvr/joaocdvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **frontend developer**. My design background helped me develop a keen eye for detail and gave me the tools to communicate more effectively with designers. That is where I feel the most comfortable — working on the intersection between design and development.
 
-Here are some ideas to get you started:
+## Technologies I enjoy working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS , Svelte, and React.
+
+## Looking for
+
+- An **internship/junior** position where I can collaborate with people from diverse backgrounds/expertise, broaden/improve my skills, and grow together with a team;
+- Cool projects to **contribute** to, and **learn** from.
+
+## Work outside GitHub
+
+- [**Website for Nadoki**](https://nadoki.com), a mixing and mastering studio located at Riverside Studios, in the heart of Berlin. This project was developed with **Svelte & Sapper**. The source code is available [**here**](https://gitlab.com/nadoki/nadoki-website-v2).
+
+## How to reach me
+
+[![João's GitLab account](https://img.shields.io/badge/GitLab--_.svg?style=social&logo=gitlab)](https://gitlab.com/joaocdvr) [![João's LinkedIn account](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/joaocdvr/) [![João's Gmail account](https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail)](mailto:joaocdvrodrigues@gmail.com)
