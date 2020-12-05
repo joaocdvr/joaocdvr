@@ -4,16 +4,15 @@ I'm a communication design graduate turned **frontend developer**. My design bac
 
 ## Technologies I enjoy working with
 
-- HTML, CSS , JavaScript, Svelte, and React.
+- HTML, CSS , JavaScript, Svelte, Vue, and React.
 
 ## Looking for
 
-- An **internship/junior** position where I can collaborate with people from diverse backgrounds/expertise, broaden/improve my skills, and grow with a group of people that cares about what they are building;
 - Cool projects to **contribute** to, and **learn** from.
 
 ## Work outside GitHub
 
-- [**Website for Nadoki**](https://nadoki.com), a mixing and mastering studio located at Riverside Studios, in the heart of Berlin. This project was developed with **Svelte & Sapper**. The source code is available [**here**](https://gitlab.com/nadoki/nadoki-website-v2).
+- [**Website for Nadoki**](https://nadoki.com), a mixing and mastering studio located at Riverside Studios, in the heart of Berlin. This project was developed with **Svelte & Sapper**. The source code is available on this [**GitLab repository**](https://gitlab.com/nadoki/nadoki-website-v2).
 
 ## How to reach me
 
