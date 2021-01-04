@@ -13,7 +13,3 @@ I'm a communication design graduate turned **frontend developer**. My design bac
 ## Work outside GitHub
 
 - [**Website for Nadoki**](https://nadoki.com), a mixing and mastering studio located at Riverside Studios, in the heart of Berlin. This project was developed with **Svelte & Sapper**. The source code is available on this [**GitLab repository**](https://gitlab.com/nadoki/nadoki-website-v2).
-
-## How to reach me
-
-[![João's GitLab account](https://img.shields.io/badge/GitLab--_.svg?style=social&logo=gitlab)](https://gitlab.com/joaocdvr) [![João's LinkedIn account](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/joaocdvr/) [![João's Gmail account](https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail)](mailto:joaocdvrodrigues@gmail.com)
