@@ -4,6 +4,8 @@ I'm a communication design graduate turned **frontend developer** currently work
 
 ## Working with
 
-- HTML — CSS — JavaScript
+- HTML
+- CSS - SCSS - PostCSS - Tailwind CSS
+- JavaScript - Typescript
 - React/Next — Vue/Nuxt — Svelte
 - D3.js — Motion One
